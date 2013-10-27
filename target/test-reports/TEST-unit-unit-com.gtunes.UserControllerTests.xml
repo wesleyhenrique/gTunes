@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Wesleys-MacBook-Air.local" name="com.gtunes.UserControllerTests" tests="4" time="3.438" timestamp="2013-10-12T21:32:37">
+  <properties />
+  <testcase classname="com.gtunes.UserControllerTests" name="testRegisterPasswordsDontMatch" time="2.205" />
+  <testcase classname="com.gtunes.UserControllerTests" name="testLoginCommandInvalidLogin" time="0.576" />
+  <testcase classname="com.gtunes.UserControllerTests" name="testInvalidLogin" time="0.184" />
+  <testcase classname="com.gtunes.UserControllerTests" name="testValidLogin" time="0.402" />
+  <system-out><![CDATA[--Output from testRegisterPasswordsDontMatch--
+--Output from testLoginCommandInvalidLogin--
+--Output from testInvalidLogin--
+--Output from testValidLogin--
+]]></system-out>
+  <system-err><![CDATA[--Output from testRegisterPasswordsDontMatch--
+--Output from testLoginCommandInvalidLogin--
+--Output from testInvalidLogin--
+--Output from testValidLogin--
+]]></system-err>
+</testsuite>

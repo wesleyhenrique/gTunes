@@ -1,0 +1,19 @@
+Testsuite: com.gtunes.UserControllerTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 3.438 sec
+------------- Standard Output ---------------
+--Output from testRegisterPasswordsDontMatch--
+--Output from testLoginCommandInvalidLogin--
+--Output from testInvalidLogin--
+--Output from testValidLogin--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testRegisterPasswordsDontMatch--
+--Output from testLoginCommandInvalidLogin--
+--Output from testInvalidLogin--
+--Output from testValidLogin--
+------------- ---------------- ---------------
+
+Testcase: testRegisterPasswordsDontMatch took 2.205 sec
+Testcase: testLoginCommandInvalidLogin took 0.576 sec
+Testcase: testInvalidLogin took 0.184 sec
+Testcase: testValidLogin took 0.402 sec
